@@ -9,6 +9,11 @@ This project is a Flask-based web application that allows users to upload medica
 - **AI-Generated Insights**: Provides structured insights based on the model’s classification and PDF content using Google's Generative AI model.
 - **Image Probability Plot**: Displays a plot showing the model’s confidence for each class prediction.
 - **Confidence Score**: Displays the confidence score for the image prediction.
+-   Education & Wellness Programs: Current features include a health dashboard, workshops, webinars, and cancer journey sharing etc.
+-   Doctor Recommendations: The platform suggests specialized doctors based on location and cancer type, facilitating appointment bookings.
+-   News & Visual Insights: Users access the latest cancer news and insightful statistics.
+
+
 
 ## Requirements
 
