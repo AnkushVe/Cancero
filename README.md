@@ -25,3 +25,8 @@ This project is a Flask-based web application that allows users to upload medica
 - Markdown
 - NumPy
 - dotenv
+
+![b587e8e7-40e4-4f3e-916c-5bde8653e019](https://github.com/user-attachments/assets/095d5300-2319-4f58-aef5-2502133f464e)
+
+![PHOTO-2024-10-10-20-56-50](https://github.com/user-attachments/assets/e6680c45-3a7a-4ad5-8db9-4f7e5ddd5dd9)
+
